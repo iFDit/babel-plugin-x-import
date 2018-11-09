@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-x-import",
+  "version": "0.0.1",
+  "description": "xbrick code split",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "liyang",
+  "license": "ISC",
+  "dependencies": {}
+}
