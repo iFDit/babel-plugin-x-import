@@ -36,7 +36,9 @@
  * console.log(output)
  */
 
-export default function ({ types: t }) {
+const dirMap = require('./dirMap')
+
+module.exports = function ({ types: t }) {
   return {
     visitor: {
       ImportDeclaration(path) {
